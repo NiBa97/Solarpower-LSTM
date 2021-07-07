@@ -1,1 +1,2 @@
-Learning LSTM's
+Dataset Source: 
+https://www.kaggle.com/fvcoppen/solarpanelspower

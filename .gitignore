@@ -1,5 +1,5 @@
 #Exclude datasets
-*/data/*
+data/*
 
 #Exclude models
-*/models/*
+models/*
